@@ -1,4 +1,7 @@
-# api documentation for  [lovefield (v2.1.12)](https://github.com/google/lovefield)  [![npm package](https://img.shields.io/npm/v/npmdoc-lovefield.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lovefield) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lovefield.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lovefield)
+# npmdoc-lovefield
+
+#### basic api documentation for  [lovefield (v2.1.12)](https://github.com/google/lovefield)  [![npm package](https://img.shields.io/npm/v/npmdoc-lovefield.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lovefield) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lovefield.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lovefield)
+
 #### Lovefield - A relational database for web apps
 
 [![NPM](https://nodei.co/npm/lovefield.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lovefield)
